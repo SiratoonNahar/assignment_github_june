@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+
+div{
+    /* border: 1px solid black; */
+    text-align: center;
+    display: inline-block;
+    margin-left: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 90px 0px;
+    overflow: hidden;
+    width: 15%;
+    margin-top: 20px;
+    height: 290px;
+}
+
+div img:first-of-type{
+    
+    width:100% ;
+}
+p{
+    margin-top: 10px;
+}
+
+  
